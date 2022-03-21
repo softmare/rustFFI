@@ -1,6 +1,6 @@
 #include<iostream>
 
-extern "C" int addition(int a, int b);
+extern "C" unsigned int addition(unsigned int a,unsigned int b);
 
 int main()
 {
